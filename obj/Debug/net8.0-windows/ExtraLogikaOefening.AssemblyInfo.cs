@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExtraLogikaOefening")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c0cb7b467558727e22d0a84154d921cf4e14395")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExtraLogikaOefening")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExtraLogikaOefening")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
